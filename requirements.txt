@@ -62,7 +62,7 @@ mmcv==2.2.0
 mmengine==0.10.5
 natsort
 nvitop==1.3.2
-opencv-python==4.7.0.72
+opencv-python-headless==4.7.0.72
 pandas==1.5.3
 parso==0.8.3
 pexpect==4.8.0
